@@ -1,0 +1,994 @@
+
+<!doctype html>
+<html class="no-js" lang="zxx">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Trophero chess club</title>
+    <meta name="author" content="vecuro_themes">
+
+
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    
+
+    <!--==============================
+	    All CSS File
+	============================== -->
+    <!-- Google Fonts-->
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;500;600;700;800&family=Catamaran:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <!-- Fontawesome Icon -->
+    <link rel="stylesheet" href="assets/css/fontawesome.min.css">
+    <!-- Magnific Popup -->
+    <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
+    <!-- Slick Slider -->
+    <link rel="stylesheet" href="assets/css/slick.min.css">
+    <!-- Theme Custom CSS -->
+    <link rel="stylesheet" href="assets/css/style.css">
+
+    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    
+</head>
+
+<body>
+
+
+  
+
+
+    <!--========== Preloader =========-->
+    <div class="preloader">
+       
+        <div class="preloader-inner">
+            <img src="assets/img/chess_loading.gif">
+        </div>
+    </div>
+
+    <!-- Side menu start -->
+    <div class="sidemenu-wrapper">
+        <div class="sidemenu-content">
+            <button class="closeButton sideMenuCls"><i class="fa fa-times"></i></button>
+            <div class="widget footer-widget">
+                <div class="vs-widget-about">
+                    <div class="about-logo">
+                        <a href="index.html">
+                            <img src="assets/img/logo.png">
+                        </a>
+                    </div>
+                    <p class="about-text">The Trophero chess club, founded in 2017 in Chennai by FIDE National Instructor Survar Subair. Known for its commitment to excellence, the club has produced students who have achieved titles as National and State Champions. With over 7 years of competitive training experience, the team at Trophero is dedicated to nurturing chess talent and advancing player’s skills to achieve success at all levels.</p>
+                    
+                </div>
+            </div>
+
+            <div class="widget footer-widget">
+                <h3 class="widget_title">Contact Us</h3>
+                <div class="vs-widget-contact">
+                    <p class="footer-info"><i class="fas fa-map-marker-alt"></i><strong>Trophero chess club</strong><br>
+Sky Tower, Opp. Hyson Heritage,<br> Mavoor Road Jn, Calicut, India
+</p>
+                    <p class="footer-info footer-address"><i class="fas fa-envelope"></i><a href="mailto:hello@tropherochess.com">hello@tropherochess.com</a></p>
+                    <p class="footer-info"><i class="fa fa-whatsapp" aria-hidden="true"></i><a href="https://api.whatsapp.com/send?phone=918129370901&text=I%20am%20interested%20to%20know%20more." target="_blank">+91 8129370901</a></p>
+                </div>
+            </div>
+
+            
+        </div>
+    </div> 
+
+    <!--vs-mobile-menu start-->
+    <div class="vs-menu-wrapper">
+        <div class="vs-menu-area">
+            <button class="vs-menu-toggle"><i class="fal fa-times"></i></button>
+            <div class="mobile-logo">
+                <a href="index.html"><img src="assets/img/logo.png" alt="Trophero chess club" title="Trophero chess club"></a>
+            </div>
+            <div class="vs-mobile-menu">
+                <ul>
+                    <li class=""><a href="index.html">Home</a></li>
+                    <li class=""><a href="about-trophero-chess-club.html">About Us</a></li>
+                    <li class=""><a href="our-courses.html">Our Courses</a></li>
+                    <li class=""><a href="gallery.html">Gallery</a></li>
+                    <li class=""><a href="faq.html">FAQ</a></li>
+                    <li class=""><a href="contact-us.html">Contact Us</a></li> 
+                </ul>
+            </div><!-- Menu Will Append With Javascript -->
+        </div>
+    </div>
+    <!--vs-mobile-menu end-->
+
+    <!--======== Header ========-->
+    <header class="vs-header header-layout1">
+        <!--header-top-wrapper start-->
+        <div class="header-top-area d-none d-xl-block">
+            <div class="container">
+                <div class="row justify-content-end">
+                    <div class="col-lg-9 ps-0">
+                        <div class="row align-items-center justify-content-between pb-2">
+                            <div class="col-auto">
+                                <div class="header-links">
+                                    <ul>
+                                      
+                                        <li><i class="fa fa-whatsapp" aria-hidden="true"></i><a href="https://api.whatsapp.com/send?phone=918129370901" target="_blank">+91 8129370901</a></li>
+                                        <li><i class="fal fa-envelope"></i><a href="mailto:hello@tropherochess.com">hello@tropherochess.com</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-auto">
+                                <div class="header-social">
+                                    <ul>
+                                        <li><a href="https://www.facebook.com/trophero/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                        <li><a href="https://www.instagram.com/tropherochess/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                                        <li><a href="https://x.com/survarsubair?lang=en" target="_blank"><img src="assets/img/top-icon.png"></a></li>
+                                        <li><a href="https://www.youtube.com/channel/UC7xkxDTKrfUL3JSgFG-12zw" target="_blank"><i class="fa fa-youtube"></i></a></li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--header-top-wrapper end-->
+        <!--vs-main-menu-wrapper start-->
+        <div class="sticky-wrapper">
+            <div class="sticky-active">
+                <div class="container">
+                    <div class="header-menu-area">
+                        <div class="row gx-20 align-items-center justify-content-between">
+                            <div class="col-auto px-0">
+                                <div class="header-logo">
+                                    <a href="index.html">
+                                        <img src="assets/img/logo.png"  alt="Trophero chess club" title="Trophero chess club">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="col px-0">
+                                <div class="menu-style1">
+                                    <div class="row justify-content-xl-between justify-content-end">
+                                        <div class="col-auto">
+                                            <nav class="main-menu d-none d-lg-inline-block">
+                                                <ul>
+                                                    <li class=""><a href="index.html">Home</a></li>
+                    <li class=""><a href="about-trophero-chess-club.html">About Us</a></li>
+                    <li class=""><a href="our-courses.html">Our Courses</a></li>
+                    <li class=""><a href="gallery.html">Gallery</a></li>
+                    <li class=""><a href="faq.html">FAQ</a></li>
+                    <li class=""><a href="contact-us.html">Contact Us</a></li> 
+                                                    
+                                                    
+                                                   
+                                                   
+                                                    
+                                                  
+                                                   
+                                                </ul>
+                                            </nav>
+                                            <button type="button" class="vs-menu-toggle d-block d-lg-none"><i class="fa fa-bars"></i> Menu</button>
+                                        </div>
+                                        <div class="col-auto d-none d-xl-block">
+                                            <div class="header-button d-xl-flex align-items-center">
+                                                <button type="button" class="sideMenuToggler icon-btn"><i class="fal fa-bars"></i></button>
+                                                <a href="https://api.whatsapp.com/send?phone=918129370901" target="_blank" class="vs-btn wave-btn">Join now</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--vs-main-menu-wrapper end-->
+    </header>
+    <!--======== / Header ========-->
+
+    
+    <section class="vs-hero-wrapper hero-layout1 hero-3 position-relative">
+        <div class="section-after style-2 d-none d-md-block">
+            <img src="assets/img/shape/hero4-after.png" alt="shape">
+        </div>
+        <div class="hero-slider3 vs-carousel" data-slide-show="1" data-md-slide-show="1" data-arrows="true" data-fade="true">
+            <!-- Single Slide -->
+            <div class="vs-hero-inner">
+                <div class="vs-hero-bg" data-bg-src="assets/img/bg/hero5-1.jpg"><img src="assets/img/bg/hero3-overlay.png" alt="overlay"></div>
+                <div class="container">
+                    <div class="hero-content5">
+                        <span class="h4 hero-subtitle style-3" data-ani="slideinup" data-ani-delay="0s">From Beginners to Champions </span>
+                        <h2 class="hero-title style-2" data-ani="slideinup" data-ani-delay="0.2s">Your Chess Journey Starts Here</h2>
+                        <a href="contact-us.html" class="vs-btn wave-btn" data-ani="slideinup" data-ani-delay="0.4s">Contact Us</a>
+                    </div>
+                </div>
+            </div>
+           
+            <!--<div class="vs-hero-inner">
+                <div class="vs-hero-bg" data-bg-src="assets/img/bg/hero5-2.jpg"><img src="assets/img/bg/hero3-overlay.png" alt="overlay"></div>
+                <div class="container">
+                    <div class="hero-content5">
+                        <span class="h4 hero-subtitle style-3" data-ani="slideinup" data-ani-delay="0s">Think. Plan. Win. </span>
+                        <h2 class="hero-title style-2" data-ani="slideinup" data-ani-delay="0.2s">Elevate Your Chess Skills with Trophero</h2>
+                        <a href="contact.html" class="vs-btn wave-btn" data-ani="slideinup" data-ani-delay="0.4s">Contact Us</a>
+                    </div>
+                </div>
+            </div>
+           
+            <div class="vs-hero-inner">
+                <div class="vs-hero-bg" data-bg-src="assets/img/bg/hero5-3.jpg"><img src="assets/img/bg/hero3-overlay.png" alt="overlay"></div>
+                <div class="container">
+                    <div class="hero-content5">
+                        <span class="h4 hero-subtitle style-3" data-ani="slideinup" data-ani-delay="0s">Nurturing Talent, </span>
+                        <h2 class="hero-title style-2" data-ani="slideinup" data-ani-delay="0.2s">Building Champions Since <span class="banner-number">2017</span></h2>
+                        <a href="contact.html" class="vs-btn wave-btn" data-ani="slideinup" data-ani-delay="0.4s">Contact Us</a>
+                    </div>
+                </div>
+            </div>-->
+        </div> 
+        <!-- / Slider end -->
+        <div class="shape-mockup rotate d-none d-md-block" data-top="10%" data-left="11%"><img src="assets/img/icon/sun-4.png" alt="shapes"></div>
+        <div class="shape-mockup movingBottomLeft" data-bottom="20%" data-left="0%"><img src="assets/img/icon/car-5.png" alt="shapes"></div>
+        <div class="shape-mockup movingTopLeft d-none d-md-block" data-bottom="3%" data-right="3%"><img src="assets/img/icon/rain-2.png" alt="shapes"></div>
+        <div class="shape-mockup moving d-none d-xl-block" data-top="9%" data-right="8%"><img src="assets/img/icon/m.png" alt="shapes"></div>
+    </section>
+    <!--======== / Hero Section ========-->
+
+    <!--======== About Section ========-->
+    <section class="about-section about-layout1 space">
+        <div class="container">
+            <div class="row gy-30 align-items-center">
+                <div class="col-lg-6 wow fadeInRight mt-0" data-wow-delay="0.1s">
+                    <div class="about-img">
+                        <img src="assets/img/bg/about-bg.png" alt="about-img">
+                    </div>
+                </div>
+                <div class="col-lg-6 wow fadeInLeft" data-wow-delay="0.1s">
+                    <span class="sub-title">About Us</span>
+                    <h2 class="sec-title big-title"> Trophero chess club</h2>
+                    <p class="fs-md mb-20">The  Trophero chess club, founded in 2017 in Chennai by FIDE National Instructor Survar Subair. Known for its commitment to excellence, the club has produced students who have achieved titles as National and State Champions. With over 7 years of competitive training experience, the team at Trophero is dedicated to nurturing chess talent and advancing player’s skills to achieve success at all levels.</p>
+                   
+                    <p class="fs-md mb-0"><strong>Why pick</strong></p>
+                    <h4 class="about-small-title">Trophero chess club?</h4>
+                    
+                    <div class="check-list1 mb-10">
+                        <ul class="about-list">
+                            <li><img src="assets/img/about-icon-1.png" alt="icon">Guided by textbook + workbook</li>
+                            <li><img src="assets/img/about-icon-3.png" alt="icon">Interactive online classes</li>
+                            
+                        </ul>
+                        <ul class="about-list">
+                            <li><img src="assets/img/about-icon-2.png" alt="icon">FIDE rated coaches</li>
+                            <li><img src="assets/img/about-icon-4.png" alt="icon">1 on 1 & group</li>
+                        </ul>
+                    </div>
+                    <a href="about-trophero-chess-club.html" class="vs-btn wave-btn style-1">Read More</a>
+                </div>
+            </div>
+        </div>
+        <div class="shape-mockup movingX" data-top="20%" data-left="25%"><img src="assets/img/icon/note-2.png" alt="shapes"></div>
+        <div class="shape-mockup moving" data-bottom="5%" data-left="32%"><img src="assets/img/icon/ballon.png" alt="shapes"></div>
+        <div class="shape-mockup movingX" data-top="20%" data-left="45%"><img src="assets/img/icon/light.png" alt="shapes"></div>
+        <div class="shape-mockup movingX" data-ani-delay="4s" data-bottom="5%" data-right="5%"><img src="assets/img/icon/car-6.png" alt="shapes"></div>
+    </section>
+    <!--======== / About Section ========-->
+
+    <section class="classes-layout1 space" data-bg-src="assets/img/bg/classes-bg.png">
+        <div class="container">
+            <div class="row mb-30 g-5 align-items-center wow fadeInUp" data-wow-delay="0.1s">
+                <div class="col-lg-12 text-center">
+                    <div class="title-area text-center text-lg-start mb-0 wow fadeInUp" data-wow-delay="0.1s">
+                        <span class="sub-title text-white text-center"> Trophero chess club</span>
+                        <h2 class="sec-title text-white text-center">Our Courses</h2>
+                    </div>
+                </div>
+               
+            </div>
+            <div class="row">
+                
+              <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="class-box">
+                        <div class="class-img">
+                            <a href="#">
+                                <img src="assets/img/course-img-1.jpg" alt="class">
+                            </a>
+                        </div>
+                        <div class="class-content">
+                            <h2 class="class-title h4"><a href="#">Beginner - <span class="courses-smallfont">Age: 6-15</span></a></h2>
+                            <p class="class-text"><strong>Small group :</strong> upto 5 students <br>
+<strong>Duration :</strong> 3 Months<br>  
+<strong>Schedule :</strong> Weekly 2 hours sessions<br>
+<strong>Mode :</strong> Interactive Online Classes<br></p>
+                            <div class="class-profile">
+                                
+                                <span class="class-fee">Fee: ₹2000 per month  </span>
+                            </div>
+                            <ul class="class-info">
+                                <li>
+                                    <p>Requirements</p>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>“The Chess Course” parent book – ₹900</span>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Beginner's workbook – ₹600</span>
+                                </li>
+                                
+                               
+                            </ul>
+                            
+                            <ul class="class-info">
+                                <li>
+                                    <p>Program Highlights</p>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Workbook : 400 questions designed for<br><span class="course_points_left">beginners</span>  </span>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Missed class recording</span>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>FIDE rated coaches</span>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Completion report & appraisal</span>
+                                </li>
+                                
+                               
+                            </ul>
+                            
+                            <a href="https://api.whatsapp.com/send?phone=918129370901&text=I%20would%20like%20to%20request%20a%20free%20demo%20for%20beginners" target="_blank" class="vs-btn wave-btn style-1">Free demo</a>
+                            <a href="contact-us.html" class="vs-btn wave-btn style-1">Join now</a>
+                           
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="class-box">
+                        <div class="class-img">
+                            <a href="#">
+                                <img src="assets/img/course-img-2.jpg" alt="class">
+                            </a>
+                        </div>
+                        <div class="class-content">
+                            <h2 class="class-title h4"><a href="#">Advanced Beginner</a></h2>
+                            <p class="class-text">
+<strong>Duration :</strong> 3 Months<br>  
+<strong>Schedule :</strong> Weekly 2-hours sessions<br>
+<strong>Mode :</strong> Interactive Online Classes</p>
+                            <div class="class-profile">
+                                
+                                <span class="class-fee">Fee : ₹2000 per month </span>
+                            </div>
+                            <ul class="class-info">
+                                <li>
+                                    <p>Requirements</p>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Advanced Beginner workbook -₹600</span>
+                                </li>
+                                
+                               
+                            </ul>
+                            
+                            <ul class="class-info">
+                                <li>
+                                    <p>Program Highlights</p>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Missed class recording  </span>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Workbook : Solve 364 skill-building <span class="course_points_left">questions</span>  </span>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Training Games : Play and analyze 24 <span class="course_points_left">training games</span></span>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>FIDE rated coaches</span>
+                                    
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Weekly Online Tournaments</span>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Completion report and appraisal  </span>
+                                </li>
+                                
+                               
+                            </ul>
+                            
+                             <a href="https://api.whatsapp.com/send?phone=918129370901&text=I%20would%20like%20to%20request%20a%20free%20demo%20for%20advanced%20beginners" target="_blank" class="vs-btn wave-btn style-1">Free demo</a>
+                            <a href="contact-us.html" class="vs-btn wave-btn style-1">Join now</a>
+                           
+                        </div>
+                    </div>
+                </div>
+                
+                
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="class-box">
+                        <div class="class-img">
+                            <a href="#">
+                                <img src="assets/img/course-img-3.jpg" alt="class">
+                            </a>
+                        </div>
+                        <div class="class-content">
+                            <h2 class="class-title h4"><a href="#">Intermediate </a></h2>
+                            <p class="class-text">
+<strong>Duration :</strong> 3 Months  <br>  
+<strong>Schedule :</strong> Weekly 2-hours sessions<br>
+<strong>Mode :</strong> Interactive Online Classes</p>
+                            <div class="class-profile">
+                                
+                                <span class="class-fee">Fee : ₹2000 per month</span>
+                            </div>
+                            <ul class="class-info">
+                                <li>
+                                    <p>Requirements</p>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Intermediate workbook -₹600</span>
+                                </li>
+                                
+                               
+                            </ul>
+                            
+                            <ul class="class-info">
+                                <li>
+                                    <p>Program Highlights</p>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Missed class recording</span>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Workbook : Tackle 224 challenging<span class="course_points_left">positions</span> </span>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Learn 4 essential chess openings</span>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>FIDE rated coaches</span>
+                                    
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Weekly Online Tournaments</span>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Completion report and appraisal </span>
+                                </li>
+                                
+                               
+                            </ul>
+                             <a href="https://api.whatsapp.com/send?phone=918129370901&text=I%20would%20like%20to%20request%20a%20free%20demo%20for%20intermediates" target="_blank" class="vs-btn wave-btn style-1">Free demo</a>
+                            <a href="contact-us.html" class="vs-btn wave-btn style-1">Join now</a>
+                           
+                        </div>
+                    </div>
+                </div>
+                
+                
+                
+                
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="class-box">
+                        <div class="class-img">
+                            <a href="#">
+                                <img src="assets/img/course-img-4.jpg" alt="class">
+                            </a>
+                        </div>
+                        <div class="class-content">
+                            <h2 class="class-title h4"><a href="#">Advanced I </a></h2>
+                            <p class="class-text">
+<strong>Duration :</strong> 6 Months<br>  
+<strong>Schedule :</strong> Weekly 2-hours sessions  <br>
+<strong>Mode :</strong> Interactive Online Classes <br>
+                            </p>
+                            <div class="class-profile">
+                                
+                                <span class="class-fee">Fee : ₹2000 per month</span>
+                            </div>
+                            <ul class="class-info">
+                                <li>
+                                    <p>Requirements</p>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Advanced I workbook - ₹600</span>
+                                </li>
+                                
+                               
+                            </ul>
+                            
+                            <ul class="class-info">
+                                <li>
+                                    <p>Program Highlights</p>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Missed class recording</span>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Workbook : complete 131 targeted<span class="course_points_left">positions</span> </span>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Learn essential chess openings</span>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>FIDE rated coaches</span>
+                                    
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Weekly Online Tournaments</span>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Completion report and appraisal </span>
+                                </li>
+                                
+                               
+                            </ul>
+                            <a href="https://api.whatsapp.com/send?phone=918129370901&text=I%20would%20like%20to%20request%20a%20free%20demo%20for%20Advanced%20I" target="_blank" class="vs-btn wave-btn style-1">Free demo</a>
+                            <a href="contact-us.html" class="vs-btn wave-btn style-1">Join now</a>
+                           
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="class-box">
+                        <div class="class-img">
+                            <a href="#">
+                                <img src="assets/img/course-img-5.jpg" alt="class">
+                            </a>
+                        </div>
+                        <div class="class-content">
+                            <h2 class="class-title h4"><a href="#">Advanced II</a></h2>
+                            <p class="class-text">
+<strong>Duration :</strong> 6 Months  <br>  
+<strong>Schedule :</strong> Weekly 2-hours sessions  <br>
+<strong>Mode :</strong> Interactive Online Classes  <br>
+                            </p>
+                            <div class="class-profile">
+                                
+                                <span class="class-fee">Fee : ₹2000 per month</span>
+                            </div>
+                            <ul class="class-info">
+                                <li>
+                                    <p>Requirements</p>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Advanced II workbook -₹600</span>
+                                </li>
+                                
+                               
+                            </ul>
+                            
+                            <ul class="class-info">
+                                <li>
+                                    <p>Program Highlights</p>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Missed class recording</span>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Workbook : complete 176 challenging<span class="course_points_left">positions</span></span>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Gain expertise chess openings</span>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>FIDE rated coaches</span>
+                                    
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Weekly Online Tournaments</span>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Completion report and appraisal </span>
+                                </li>
+                                
+                               
+                            </ul>
+                             <a href="https://api.whatsapp.com/send?phone=918129370901&text=I%20would%20like%20to%20request%20a%20free%20demo%20for%20Advanced%20II" target="_blank" class="vs-btn wave-btn style-1">Free demo</a>
+                            <a href="contact-us.html" class="vs-btn wave-btn style-1">Join now</a>
+                           
+                        </div>
+                    </div>
+                </div>
+                
+                
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="class-box">
+                        <div class="class-img">
+                            <a href="#">
+                                <img src="assets/img/course-img-6.jpg" alt="class">
+                            </a>
+                        </div>
+                        <div class="class-content">
+                            <h2 class="class-title h4"><a href="#">Advanced III</a></h2>
+                            <p class="class-text">
+<strong>Duration :</strong> 3 Months <br>  
+<strong>Schedule :</strong> Weekly 2-hours sessions<br>
+<strong>Mode :</strong> Interactive Online Classes  <br>
+                            </p>
+                            <div class="class-profile">
+                                
+                                <span class="class-fee">Fee : ₹2500 per month</span>
+                            </div>
+                            <ul class="class-info">
+                                <li>
+                                    <p>Requirements</p>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Advanced III workbook -₹600</span>
+                                </li>
+                                
+                               
+                            </ul>
+                            
+                            <ul class="class-info">
+                                <li>
+                                    <p>Program Highlights</p>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Missed class recording</span>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Memorize 100 chess classic games </span>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Identity 42 key positions </span>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>FIDE rated coaches</span>
+                                    
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Weekly Online Tournaments</span>
+                                    <span><i class="fa fa-angle-double-right" aria-hidden="true"></i>Completion report and appraisal</span>
+                                </li>
+                                
+                               
+                            </ul>
+                            <a href="https://api.whatsapp.com/send?phone=918129370901&text=I%20would%20like%20to%20request%20a%20free%20demo%20for%20Advanced%20III" target="_blank" class="vs-btn wave-btn style-1">Free demo</a>
+                            <a href="contact-us.html" class="vs-btn wave-btn style-1">Join now</a>
+                           
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+            
+        </div>
+        <div class="shape-mockup movingX d-none d-xl-block" data-top="12%" data-left="4%"><img src="assets/img/icon/animal-1.png" alt="shapes"></div>
+        <div class="shape-mockup moving d-none d-xl-block" data-bottom="0%" data-left="4%"><img src="assets/img/icon/halicopter.png" alt="shapes"></div>
+        <div class="shape-mockup rotate d-none d-lg-block" data-top="13%" data-right="8%"><img src="assets/img/icon/sun-5.png" alt="shapes"></div>
+        <div class="shape-mockup shapePulse d-none d-xl-block" data-bottom="18%" data-right="7%"><img src="assets/img/icon/dog-2.png" alt="shapes"></div>
+    </section>
+
+    <!--======== Service Section ========-->
+    <section class="service-section bg-white space"  data-bg-src="assets/img/bg/service-bg.png">
+        <div class="container">
+            <div class="row gx-lg-15 justify-content-center">
+                <div class="col-lg-6">
+                    <div class="service-style1">
+                        <div class="title-area text-start wow fadeInUp" data-wow-delay="0.1s">
+                            <span class="sub-title">Our Founder</span>
+                            <h2 class="sec-title">Survar Subair</h2>
+                        </div>
+                        
+                        <p class="mb-10">The founder and trainer of  Trophero chess club, was 
+awarded the FIDE National Instructor Title. Represented the State of Kerala at the Nationals in 
+2015 and 2016. Students of the  Trophero chess club have achieved 
+success as National and State Champions. The Team boasts over 15+ years of competitive 
+chess training experience.</p>
+                        
+                       <p class="mb-10 about-small-title founder-p">Reach out to us.</p>
+                       <p>We’re here to help you take your game to the next level!</p>
+                        
+                        
+                        
+                        <div class="feature-inner style2">
+                           
+                            <div class="feature-box">
+                                <div class="feature-icon">
+                                    <img src="assets/img/icon/talephone.png" alt="icon">
+                                </div>
+                                <div class="feature-info">
+                                    <h4 class="feature-title"><a href="https://api.whatsapp.com/send?phone=918129370901" target="_blank">+91 8129370901</a></h4>
+                         
+                                </div>
+                            </div>
+                        </div>
+                       
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="service-bg">
+                        <img src="assets/img/bg/service-bg1.png" alt="service-bg">
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="shape-mockup shapePulse" data-bottom="16%" data-left="6%"><img src="assets/img/icon/draw-1.png" alt="shapes"></div>
+        <div class="shape-mockup movingX" data-top="22%" data-right="7%"><img src="assets/img/icon/star-9.png" alt="shapes"></div>
+        <div class="shape-mockup moving " data-bottom="20%" data-right="10%"><img src="assets/img/icon/apple-2.png" alt="shapes"></div>
+    </section>
+    <!--======== / Service Section ========-->
+    
+    
+    
+    
+    <section class="counter-section counter-layout1 space-top">
+        <div class="container">
+            
+              <div class="title-area text-center text-start wow fadeInUp" data-wow-delay="0.1s">
+                            <span class="sub-title"> Trophero chess club</span>
+                            <h2 class="sec-title">Here are some impactful "Counting Numbers"</h2>
+                        </div>
+            
+            <div class="row gy-30 justify-content-between">
+                <!-- Single Item -->
+                <div class="col-xl-auto col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="counter-box">
+                        <div class="counter-icon">
+                            <img src="assets/img/icon-1.png" alt="icon">
+                        </div>
+                        <div class="counter-info">
+                            <h2 class="counter-number">7</h2>
+                            <p class="counter-text">Years of Competitive<br> Training Experience</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Single Item -->
+                <div class="col-xl-auto col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="counter-box">
+                        <div class="counter-icon">
+                            <img src="assets/img/icon-2.png" alt="icon">
+                        </div>
+                        <div class="counter-info">
+                            <h2 class="counter-number">
+                                <span class="counter">100</span>
+                            </h2>
+                            <p class="counter-text">Students<br> Mentored to Success</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Single Item -->
+                <div class="col-xl-auto col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="counter-box">
+                        <div class="counter-icon">
+                            <img src="assets/img/icon-3.png" alt="icon">
+                        </div>
+                        <div class="counter-info">
+                            <h2 class="counter-number">
+                                <span class="counter">10</span>
+                            </h2>
+                            <p class="counter-text">National & State Champions<br> Produced</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- Single Item -->
+                
+            </div>
+        </div>
+    </section>
+
+    <!--======== Classes Section ========-->
+    
+    
+    <section class="blog-section bg-smoke space-shape-min">
+        <div class="container">
+            <div class="row text-center justify-content-center wow fadeInUp" data-wow-delay="0.1s">
+                <div class="col-xl-6 col-lg-7 col-md-8 col-sm-9">
+                    <div class="title-area">
+                        <span class="sub-title"> Trophero chess club</span>
+                        <h2 class="sec-title">Our Achievements</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row vs-carousel" data-slide-show="3" data-arrows="true">
+                <!-- Single blog -->
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="vs-blog blog-card">
+                        <div class="blog-img">
+                            <a href="gallery.html">
+                                <img src="assets/img/blog/blog-1.jpg" alt="blog">
+                            </a>
+                        </div>
+                        <div class="blog-content shadow-none">
+                          
+                            <h4 class="blog-title"><a href="gallery.html">SBOA Golden Girls</a></h4>
+                           
+                        </div>
+                    </div>
+                </div>
+                <!-- Single blog -->
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="vs-blog blog-card">
+                        <div class="blog-img">
+                            <a href="gallery.html">
+                                <img src="assets/img/blog/blog-2.jpg" alt="blog">
+                            </a>
+                        </div>
+                        <div class="blog-content shadow-none">
+                           
+                            <h4 class="blog-title"><a href="gallery.html">Tamilnadu Championship winners 2019</a></h4>
+                          
+                        </div>
+                    </div>
+                </div>
+                <!-- Single blog -->
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="vs-blog blog-card">
+                        <div class="blog-img">
+                            <a href="gallery.html">
+                                <img src="assets/img/blog/blog-3.jpg" alt="blog">
+                            </a>
+                        </div>
+                        <div class="blog-content shadow-none">
+                           
+                            <h4 class="blog-title"><a href="gallery.html">To inspire and empower individuals of all ages to develop critical thinking</a></h4>
+                            
+                        </div>
+                    </div>
+                </div>
+                <!-- Single blog -->
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="vs-blog blog-card">
+                        <div class="blog-img">
+                            <a href="blog-details.html">
+                                <img src="assets/img/blog/blog-4.jpg" alt="blog">
+                            </a>
+                        </div>
+                        <div class="blog-content shadow-none">
+                           
+                            <h4 class="blog-title"><a href="gallery.html">Anjana Silver Medal at Asians 2019</a></h4>
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="vs-blog blog-card">
+                        <div class="blog-img">
+                            <a href="gallery.html">
+                                <img src="assets/img/blog/blog-5.jpg" alt="blog">
+                            </a>
+                        </div>
+                        <div class="blog-content shadow-none">
+                           
+                            <h4 class="blog-title"><a href="gallery.html">Sannah runner up at Nationals U7 girls</a></h4>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="shape-before"><img src="assets/img/shape/before-shape-4.png" alt="shape"></div>
+        <div class="shape-after"><img src="assets/img/shape/after-shape-4.png" alt="shape"></div>
+        <div class="shape-mockup" data-top="14%" data-left="4%"><img src="assets/img/icon/star-6.png" alt="shapes"></div>
+       
+        <div class="shape-mockup moving" data-top="17%" data-right="14%"><img src="assets/img/icon/leaves-2.png" alt="shapes"></div>
+       
+    </section>
+    
+    <!--======== Team Section ========-->
+    
+    <section class="testimonial-section space-top-shape2-plus space-bottom-shape-plus">
+      
+        <div class="container">
+            <div class="row gy-30 align-items-center">
+                <div class="col-lg-4 wow fadeInLeft" data-wow-delay="0.1s">
+                    <div class="text-center text-lg-start">
+                        <span class="sub-title">TestimonialS</span>
+                        <h2 class="sec-title">What Our Members Say</h2>
+                        <p class="mb-30">At  Trophero chess club, we take pride in shaping future champions and fostering a love for the game. Hear from our students, parents, and members about how our expert coaching, structured training, and competitive environment have helped them excel both on and off the board.</p>
+                       
+                    </div>
+                </div>
+                <div class="col-lg-8 wow fadeInRight" data-wow-delay="0.1s">
+                    <div class="testi-slider-area">
+                        <div class="row testi-slider vs-carousel" id="testi1" data-slide-show="2">
+                            <!-- Single Item -->
+                            <div class="col-md-6">
+                                <div class="testi-box">
+                                    <div class="testi-avater">
+                                        <img src="assets/img/testimonial/avator-1.jpg" alt="testimonial">
+                                        <i class="fa-solid fa-quote-left"></i>
+                                    </div>
+                                   
+                                    <p class="testi-text">"Trophero isn’t just a club; it’s a family of chess enthusiasts. The guidance I’ve received here has boosted my confidence and taken my game to the next level. Thank You Subair Bro..." </p>
+                                    <div class="testi-author">
+                                        <h5 class="name">Vijeesh</h5>
+                                       <!--<span class="desig"> Parent</span>-->
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Single Item -->
+                            <div class="col-md-6">
+                                <div class="testi-box">
+                                    <div class="testi-avater">
+                                        <img src="assets/img/testimonial/avator-2.jpg" alt="testimonial">
+                                        <i class="fa-solid fa-quote-left"></i>
+                                    </div>
+                                    
+                                    <p class="testi-text">"Great Place to learn chess ! Intelligent trainer and brainstorming training." </p>
+                                    <div class="testi-author">
+                                        <h5 class="name">Vysakh G Krishnan</h5>
+                                       <!--<span class="desig">Advanced Player</span>-->
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Single Item -->
+                            <div class="col-md-6">
+                                <div class="testi-box">
+                                    <div class="testi-avater">
+                                        <img src="assets/img/testimonial/avator-2.jpg" alt="testimonial">
+                                        <i class="fa-solid fa-quote-left"></i>
+                                    </div>
+                                  
+                                    <p class="testi-text">"Fantastic Coaches Here For Chess Opening, Middle Game & End Game :)" </p>
+                                    <div class="testi-author">
+                                        <h5 class="name">Nishad NSD </h5>
+                                       <!--<span class="desig">Student</span>-->
+                                    </div>
+                                </div>
+                            </div>
+                            
+                           
+                            
+                        </div> <!-- / Slider End -->
+                        <div class="vs-icon-box testi-1 d-none d-lg-block">
+                            <button data-slick-prev="#testi1" class="icon-btn style-3 arrow-left mb-15"><i class="fa fa-arrow-left"></i></button>
+                            <button data-slick-next="#testi1" class="icon-btn style-3 arrow-right"><i class="fa fa-arrow-right"></i></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+     
+    <!--======== / Contact Section ========-->
+     <!--======== Gallery Section ========-->
+     
+
+    <!--==============================
+	Footer Area
+	==============================-->
+    <footer class="footer-wrapper footer-layout5" data-bg-src="assets/img/bg/footer-bg-5.png">
+        <div class="widget-area pb-0">
+            <div class="container">
+                <div class="row justify-content-between">
+                    <!-- About Widget-->
+                    <div class="col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="widget footer-widget">
+                            <div class="vs-widget-about">
+                                  <h4 class="widget_title">Trophero chess club</h4>
+                                <p class="footer-strong">Vision</p>
+                                <p class="about-text">To inspire and empower individuals of all ages to develop critical thinking and strategic
+skills through the game of chess, fostering a lifelong love for the game.
+</p>
+                                
+                                <p class="footer-strong">Mission</p>
+                                <p class="about-text">At  Trophero chess club, our mission is to provide high-quality chess education that promotes intellectual growth, sportsmanship, and community engagement.  We strive to create a supportive environment where students can learn, compete, and thrive in their chess journey.
+</p>
+                                <div class="multi-social">
+                                    <a href="https://www.facebook.com/trophero/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                                    <a href="https://www.instagram.com/tropherochess/" target="_blank"><i class="fa fa-instagram"></i></a>
+                                    <a href="https://x.com/survarsubair?lang=en" target="_blank"><img src="assets/img/top-icon.png"></a>
+                                    <a href="https://www.youtube.com/channel/UC7xkxDTKrfUL3JSgFG-12zw" target="_blank"><i class="fa fa-youtube"></i></a>
+                                    
+                                    
+                                  
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Footer Widget -->
+                    
+                    <!-- Footer Widget-->
+                    <div class="col-md-2 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="widget footer-widget widget_nav_menu">
+                            <h4 class="widget_title">Navigations</h4>
+                            <ul class="menu">
+                                
+                               
+                    <li class=""><a href="about-trophero-chess-club.html">About Us</a></li>
+                    <li class=""><a href="our-courses.html">Our Courses</a></li>
+                    <li class=""><a href="gallery.html">Gallery</a></li>
+                    <li class=""><a href="faq.html">FAQ</a></li>
+                    <li class=""><a href="contact-us.html">Contact Us</a></li> 
+                                
+                               
+                             
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- Footer Widget -->
+                    <div class="col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="widget footer-widget">
+                            <h3 class="widget_title">Contact Us</h3>
+                            <div class="vs-widget-contact">
+                                <p class="footer-info "><i class="fa fa-map-marker-alt"></i><strong>Trophero chess club</strong><br>
+Sky Tower, Opp. Hyson Heritage, <br>Mavoor Road Jn, Calicut, India
+</p>
+                                <p class="footer-info footer-address"><i class="fa fa-envelope"></i><a href="mailto:hello@tropherochess.com">hello@tropherochess.com</a></p>
+                                <p class="footer-info"><i class="fa fa-whatsapp" aria-hidden="true"></i><a href="https://api.whatsapp.com/send?phone=918129370901" target="_blank">+91 8129370901</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-copyright">
+            <div class="container">
+                 <p class="copyright footer-top-links"><a href="privacy-policy.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Privacy Policy</a><a href="refund-or-cancelation-policy.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Refund / Cancelation Policy</a><a href="terms-and-conditions.html"><i class="fa fa-angle-double-right" aria-hidden="true"></i>Terms and Conditions</a></p>
+                <p class="copyright">&copy; Copyright 2024  Trophero chess club. All Rights Reserved. Developed by <a href="https://v4websites.com/" target="_blank">V4Websites</a>.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!--********************************
+			Code End  Here 
+	******************************** -->
+
+
+    <!-- Scroll To Top -->
+    <a href="#" class="scrollToTop scroll-btn"><i class="fa fa-arrow-up"></i></a>
+    <!--==============================
+        All Js File
+    ============================== -->
+    <!-- Jquery -->
+    <script src="assets/js/jquery-3.5.0.min.js"></script>
+    <!-- Slick Slider -->
+    <script src="assets/js/slick.min.js"></script>
+    <!-- Bootstrap -->
+    <script src="assets/js/bootstrap.min.js"></script>
+    <!-- Magnific Popup -->
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <!-- Isotope Filter -->
+    <script src="assets/js/imagesloaded.pkgd.min.js"></script>
+    <script src="assets/js/isotope.pkgd.min.js"></script>
+    <!-- Counter up  -->
+    <script src="assets/js/jquery.counterup.min.js"></script>
+    <!-- Parallax  -->
+    <script src="assets/js/parallax.min.js"></script>
+    <!-- Custom Carousel -->
+    <script src="assets/js/vscustom-carousel.min.js"></script>
+    <!-- Range Slider -->
+    <script src="assets/js/jquery-ui.min.js"></script>
+    <!-- WOW JS (Animation JS) -->
+    <script src="assets/js/wow.min.js"></script>
+    <!-- Form Js -->
+    <script src="assets/js/ajax-mail.js"></script>
+    <!-- Main Js File -->
+    <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
