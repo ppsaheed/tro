@@ -1,4 +1,4 @@
-# Trophero Chess Club Website
+# Trophero Chess Club Website v2
 
 This is the public HTML website for Trophero Chess Club.
 
